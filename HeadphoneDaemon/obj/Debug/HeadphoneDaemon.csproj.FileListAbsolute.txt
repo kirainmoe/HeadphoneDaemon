@@ -1,0 +1,13 @@
+C:\Users\Yume\source\repos\playground\HeadphoneDaemon\HeadphoneDaemon\bin\Debug\HeadphoneDaemon.exe.config
+C:\Users\Yume\source\repos\playground\HeadphoneDaemon\HeadphoneDaemon\bin\Debug\HeadphoneDaemon.exe
+C:\Users\Yume\source\repos\playground\HeadphoneDaemon\HeadphoneDaemon\bin\Debug\HeadphoneDaemon.pdb
+C:\Users\Yume\source\repos\playground\HeadphoneDaemon\HeadphoneDaemon\obj\Debug\HeadphoneDaemon.csprojAssemblyReference.cache
+C:\Users\Yume\source\repos\playground\HeadphoneDaemon\HeadphoneDaemon\obj\Debug\HeadphoneDaemon.Properties.Resources.resources
+C:\Users\Yume\source\repos\playground\HeadphoneDaemon\HeadphoneDaemon\obj\Debug\HeadphoneDaemon.csproj.GenerateResource.cache
+C:\Users\Yume\source\repos\playground\HeadphoneDaemon\HeadphoneDaemon\obj\Debug\HeadphoneDaemon.csproj.CoreCompileInputs.cache
+C:\Users\Yume\source\repos\playground\HeadphoneDaemon\HeadphoneDaemon\obj\Debug\HeadphoneDaemon.exe
+C:\Users\Yume\source\repos\playground\HeadphoneDaemon\HeadphoneDaemon\obj\Debug\HeadphoneDaemon.pdb
+C:\Users\Yume\source\repos\playground\HeadphoneDaemon\HeadphoneDaemon\bin\Debug\NAudio.dll
+C:\Users\Yume\source\repos\playground\HeadphoneDaemon\HeadphoneDaemon\bin\Debug\NAudio.xml
+C:\Users\Yume\source\repos\playground\HeadphoneDaemon\HeadphoneDaemon\obj\Debug\HeadphoneDaemon.HeadphoneDaemon.resources
+C:\Users\Yume\source\repos\playground\HeadphoneDaemon\HeadphoneDaemon\obj\Debug\HeadphoneDaemon.csproj.CopyComplete
